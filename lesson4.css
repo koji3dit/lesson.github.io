@@ -1,0 +1,55 @@
+h1{
+    color: red;
+}
+header{
+    background-image: url("back.jpg");
+     background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+div.header-text{
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-bottom: 1em;
+    text-shadow: 1px 1px 0px #000;
+}
+section{
+
+    padding-left: 100px;
+    padding-top:30ps;
+}
+ul.section-text{
+    font-size: 15px;
+    padding-top: 1em; 
+    padding-bottom: 100px;
+}
+footer {
+  padding: 20px 0;
+  font-size: 93%;
+  text-align: center;
+  background-color: #ccc;
+  color: #666;
+}
+table{
+  
+    vertical-align: middle;
+}
+#header-img img{
+   max-width: 120px;
+  border: 5px solid #fff;
+  border-radius: 100%;
+
+}
+#header-img {
+    text-align: left;
+    padding-left: 50px;
+}
+.container-p {
+  max-width: 800px;
+  margin: -100px auto 0;
+  background-color: #fff;
+  padding-bottom: 50px;
+  border: 2px solid red;
+}
